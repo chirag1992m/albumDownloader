@@ -1,4 +1,4 @@
-﻿HOW TO USE
+HOW TO USE
 
 1. Open the facebook album you want to download.
 2. Scroll down so that you can see all the thumbnails of all the photographs present in the album.
@@ -8,5 +8,6 @@
 6. NOTE: You may have to “allow” “this site is trying to download multiple files at once”.
 
 TO DO
-Make a firefox add-on.
-Make a google chrome extension.
+
+1. Make a firefox add-on.
+2. Make a google chrome extension.
